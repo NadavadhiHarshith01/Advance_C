@@ -1,3 +1,11 @@
+// Consider a file a1. C which has the names of employees of an organization. 
+// Write a program in C to fetch the names of each employee from a1. 
+// C and take their age and salary as input from the end user. 
+// Consider a structure to hold the information and then create a file b1. 
+// C to write the name age and salary of each employee into it.
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
